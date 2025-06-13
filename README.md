@@ -91,4 +91,4 @@ npm start
 - Navegação para detalhes
 - Gerenciamento de favoritos
 
-Link do Projeto: [https://github.com/seu-usuario/my-movies](https://github.com/dvdmarveira/movie-navi)
+Link do Projeto: [https://github.coom/dvdmarveira/movie-navi](https://github.com/dvdmarveira/movie-navi)
